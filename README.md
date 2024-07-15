@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ... -->
 
 **Ongoing Projects:**
-- A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge
+- [A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge](https://people.cs.ksu.edu/~amunir/lab/AFOSR-MultimodalActivityRecognitionProject.html)
 - FogAg: A Novel Fog-Assisted Smart Agriculture Framework for Multi-Layer Sensing and Real-Time Analytics of Water-Nitrogen Colimitations in Field Crops
 - Artificial Intelligence-Assisted Spacecraft Trajectory Optimization and Planning
 - Lightweight Protocols for Secure Authentication and Communication between Unmanned Aerial Vehicles and the Ground Control Station
