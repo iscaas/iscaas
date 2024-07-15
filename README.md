@@ -8,10 +8,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-**Ongoing Projects:**
+**Projects:**
 - [A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge](https://people.cs.ksu.edu/~amunir/lab/AFOSR-MultimodalActivityRecognitionProject.html)
-- FogAg: A Novel Fog-Assisted Smart Agriculture Framework for Multi-Layer Sensing and Real-Time Analytics of Water-Nitrogen Colimitations in Field Crops
-- Artificial Intelligence-Assisted Spacecraft Trajectory Optimization and Planning
+- [FogAg: A Novel Fog-Assisted Smart Agriculture Framework for Multi-Layer Sensing and Real-Time Analytics of Water-Nitrogen Colimitations in Field Crops](https://people.cs.ksu.edu/~amunir/lab/USDA-FogAgProject.html)
+- [Artificial Intelligence-Assisted Spacecraft Trajectory Optimization and Planning](https://people.cs.ksu.edu/~amunir/lab/NASA-SpacecraftTrajectoryOptimizationProject.html)
 - Lightweight Protocols for Secure Authentication and Communication between Unmanned Aerial Vehicles and the Ground Control Station
 - Design of Safe and Secure Autonomous Vehicles and Intelligent Transportation Systems
 - Security and Trust for Internet of Things and Cyber-Physical Systems
