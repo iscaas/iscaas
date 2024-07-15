@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Ongoing Projects
+**Ongoing Projects**
 - A Multimodal Attention-Based Deep Learning Framework for Real-Time Activity Recognition at the Edge
 - FogAg: A Novel Fog-Assisted Smart Agriculture Framework for Multi-Layer Sensing and Real-Time Analytics of Water-Nitrogen Colimitations in Field Crops
 - Artificial Intelligence-Assisted Spacecraft Trajectory Optimization and Planning
